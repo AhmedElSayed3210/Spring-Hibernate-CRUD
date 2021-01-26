@@ -1,4 +1,4 @@
-# Spring and Hibernate CRUDsimple simple Aplication
+# Spring MVC and Hibernate CRUDsimple simple Aplication
 
 
 Getting All Customers List Data
